@@ -1,0 +1,20 @@
+PHPUnit 6.5.8 by Sebastian Bergmann and contributors.
+
+F..........                                                       11 / 11 (100%)
+
+Time: 61 ms, Memory: 8.00MB
+
+There was 1 failure:
+
+1) UtilTest::testExtensionFile
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'12312312312.jpg'
++'12312312312.php'
+
+/var/www/marcelo/test/system/UtilTest.php:12
+
+FAILURES!
+Tests: 11, Assertions: 11, Failures: 1.
