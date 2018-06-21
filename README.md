@@ -1,6 +1,6 @@
 # agenda-contatos
 
-Agenda de contatos desenvolvida em PHP, MySQL, Bootstrap, jQuery.
+Agenda de contatos desenvolvida em PHP, MySQL, Bootstrap e jQuery. Testes unitário com PHPUnit.
 
 Todo
 ---------------
